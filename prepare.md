@@ -16,7 +16,7 @@
 
 > 當一個Client \(用戶\) 在Browser \(瀏覽器\) 點開一個網站時，Browser \(瀏覽器\) 傳送Request \(要求\) 到Server \(伺服器\) 要求瀏覽資源，Server \(伺服器\) 再Response \(回應\) 一個頁面或資源給Client \(用戶\)，Client \(用戶\) 接收到後由Browser \(瀏覽器\) 的網頁引擎進行Render \(渲染\) 後呈現出來
 
-文字難懂？看圖就對了
+文字難懂？看圖就對了：
 
 
 

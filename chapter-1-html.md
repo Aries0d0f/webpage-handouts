@@ -71,7 +71,7 @@ OK?
 >
 > &lt;head&gt;標籤在網頁中並不會被呈現，但卻是網頁中最為不可或缺的一個元素。
 >
-> html文件被瀏覽器載入時瀏覽器會先讀完這個部分並載入提供的預先載入內容，常用此處來連結外部樣式表、JavaScript或JavaScript framework，meta標籤也會在此處宣告。
+> html文件被瀏覽器載入時瀏覽器會先讀完這個部分並載入提供的預先載入內容，常用此處來連結外部樣式表\(CSS\)、JavaScript或JavaScript framework，meta標籤也會在此處宣告。
 
 ```html
 <meta charset="UTF-8">

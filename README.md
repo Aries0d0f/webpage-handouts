@@ -10,5 +10,15 @@
 >
 > 參考資料：[維基百科](https://wikipedia.org/)、[W3C](https://www.w3.org/)、[Google](https://google.com)
 
+### 作者介紹 {#作者介紹}
+
+#### 白羊 \| Aries Cs
+
+一位迷上網頁開發設計的高中生，目前任職於李梅樹紀念館資訊組。
+
+我的個人網站：[https://aries0d0f.me](https://aries0d0f.me)
+
+
+
 
 

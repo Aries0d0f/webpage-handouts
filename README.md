@@ -4,3 +4,11 @@
 
 
 
+> 本書範例採用 HTML5 / CSS3 / ES7 \(JavaScript\) 規範撰寫，整合式編譯環境採用 Virtual Studio Code。
+>
+> 本書同步發表於GitBook平台，採開源方式輸出。
+>
+> 本書授權方式為MIT。
+
+
+

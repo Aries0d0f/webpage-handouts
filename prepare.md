@@ -46,7 +46,5 @@
 
 準備好了？那我們開始吧！
 
-> 本書採用 HTML5 / CSS3 / ES7 \(JavaScript\) 規範撰寫，整合式編譯環境採用 Virtual Studio Code。
-
 
 

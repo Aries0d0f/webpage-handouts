@@ -2,7 +2,7 @@
 
 > by Aries \(@aries0d0f \| [https://aries0d0f.me](https://aries0d0f.me)\)
 >
-> 本書範例採用 HTML5 / CSS3 / ES7 \(JavaScript\) 規範撰寫，整合式編譯環境採用 Virtual Studio Code。
+> 本書範例採用 HTML5 / CSS3 / JavaScript V8 \(ES7\) 規範撰寫，整合式開發環境採用 Virtual Studio Code。
 >
 > 本書同步發表於GitBook平台並採用Markdown。
 >
@@ -17,8 +17,4 @@
 一位迷上網頁開發設計的高中生，目前任職於李梅樹紀念館資訊組。
 
 我的個人網站：[https://aries0d0f.me](https://aries0d0f.me)
-
-
-
-
 
